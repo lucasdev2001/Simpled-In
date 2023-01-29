@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  conteudo: MyText
+  comentavel: one
+  comentavel_type: Comentavel
+
+two:
+  conteudo: MyText
+  comentavel: two
+  comentavel_type: Comentavel
